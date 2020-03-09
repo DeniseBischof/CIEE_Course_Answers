@@ -2,7 +2,9 @@
 
 ## Tutorials:
 
-### Flappy Bird:
+### Full Games:
+
+**Flappy Bird:**
 
 https://www.youtube.com/watch?v=uRWmEjxY334
 Only 10 Minutes, very interesting accent.
@@ -11,22 +13,36 @@ https://www.youtube.com/watch?v=b5Wpni9KPik
 2 hours, but very in depth and great explanations
 
 ---
-### Physics based Games:
+
+**Physics based Games:**
 
 
 ---
 
 ### Game Components:
+
 **2D:**
 
-Movement https://youtu.be/dwcT-Dch0bA
+Sidescroller Movement: https://youtu.be/dwcT-Dch0bA
 
-Shooting  https://youtu.be/wkKsl1Mfp5M
+Top Down Movement: https://youtu.be/whzomFgjT50
+
+Animation: https://youtu.be/hkaysu1Z-N8
+
+Shooting:  https://youtu.be/wkKsl1Mfp5M
 
 Melee Combat: https://youtu.be/sPiVz1k-fEs
 
 Boss Fight: https://youtu.be/AD4JIXQDw0s
 
+Turn-Based Combat: https://youtu.be/_1pz_ohupPs
+
+
 ---
 
 **3D:**
+
+---
+
+**Graphics:**
+
