@@ -46,17 +46,17 @@
 **General:**
 
 > Create your first Unity Project: https://learn.unity.com/tutorial/create-your-first-unity-project
-
+> 
 > What are if statements https://learn.unity.com/tutorial/if-statements
-
+> 
 > What are loops: https://learn.unity.com/tutorial/loops-z2b
-
+> 
 > How to use the Animator: https://youtu.be/hkaysu1Z-N8
-
+> 
 > Camera Shake: https://youtu.be/9A9yj8KnM8c
-
+> 
 > Scene Transitions: https://youtu.be/CE9VOZivb3I
-
+> 
 > Artificial Intelligence in Unity: https://learn.unity.com/course/artificial-intelligence-for-beginners
 
 ---
@@ -64,15 +64,15 @@
 **2D:**
 
 > Sidescroller Movement: https://youtu.be/dwcT-Dch0bA
-
+> 
 > Top Down Movement: https://youtu.be/whzomFgjT50
-
+> 
 > Shooting:  https://youtu.be/wkKsl1Mfp5M
-
+> 
 > Melee Combat: https://youtu.be/sPiVz1k-fEs
-
+> 
 > Boss Fight: https://youtu.be/AD4JIXQDw0s
-
+> 
 > Turn-Based Combat: https://youtu.be/_1pz_ohupPs
 
 
@@ -81,7 +81,7 @@
 **3D:**
 
 > Movement: https://youtu.be/7nxpDwnU0uU
-
+> 
 > Interaction via LayerMask: https://youtu.be/EZEeZZYRaqY
 
 ---
