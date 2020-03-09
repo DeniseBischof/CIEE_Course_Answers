@@ -14,25 +14,24 @@
 > https://www.youtube.com/watch?v=b5Wpni9KPik
 > 2 hours, but very in depth and great explanations
 
----
 
 **Physics based Games:**
 
 > https://youtu.be/4QP0ZTPUaI4 build a tower with falling boxes, a bit like Jenga
 
----
+
 
 **Space Invaders**
 
 > https://youtu.be/cnfwNzpoIlA 1 hour, good explanations of Unity components
 
----
+
 
 **Super Hexagon**
 
 > https://youtu.be/p8MzsDBI5EI 10 Minutes, super basic, but quite impressive to watch
 
----
+
 
 **Endless Runner**
 
@@ -41,6 +40,8 @@
 ---
 
 ### Game Components:
+
+---
 
 **General:**
 
