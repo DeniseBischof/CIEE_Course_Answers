@@ -16,6 +16,11 @@ https://www.youtube.com/watch?v=b5Wpni9KPik
 
 **Physics based Games:**
 
+---
+
+**Space Invaders**
+
+https://youtu.be/cnfwNzpoIlA 1 hour, good explanations of Unity components
 
 ---
 
@@ -42,7 +47,9 @@ Turn-Based Combat: https://youtu.be/_1pz_ohupPs
 
 **3D:**
 
----
+Movement: https://youtu.be/7nxpDwnU0uU
 
-**Graphics:**
+Interaction via LayerMask: https://youtu.be/EZEeZZYRaqY
+
+---
 
