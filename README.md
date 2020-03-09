@@ -10,7 +10,7 @@
 
 > https://www.youtube.com/watch?v=uRWmEjxY334
 > Only 10 Minutes, very interesting accent.
-
+> 
 > https://www.youtube.com/watch?v=b5Wpni9KPik
 > 2 hours, but very in depth and great explanations
 
