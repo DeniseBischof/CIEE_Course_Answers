@@ -4,6 +4,8 @@
 
 ### Full Games:
 
+---
+
 **Flappy Bird:**
 
 https://www.youtube.com/watch?v=uRWmEjxY334
@@ -16,6 +18,8 @@ https://www.youtube.com/watch?v=b5Wpni9KPik
 
 **Physics based Games:**
 
+https://youtu.be/4QP0ZTPUaI4 build a tower with falling boxes, a bit like Jenga
+
 ---
 
 **Space Invaders**
@@ -24,15 +28,41 @@ https://youtu.be/cnfwNzpoIlA 1 hour, good explanations of Unity components
 
 ---
 
+**Super Hexagon**
+
+https://youtu.be/p8MzsDBI5EI 10 Minutes, super basic, but quite impressive to watch
+
+---
+
+**Endless Runner**
+
+https://youtu.be/5M7vX_z6B9I 
+
 ### Game Components:
+
+**General:**
+
+Create your first Unity Project: https://learn.unity.com/tutorial/create-your-first-unity-project
+
+What are if statements https://learn.unity.com/tutorial/if-statements
+
+What are loops: https://learn.unity.com/tutorial/loops-z2b
+
+How to use the Animator: https://youtu.be/hkaysu1Z-N8
+
+Camera Shake: https://youtu.be/9A9yj8KnM8c
+
+Scene Transitions: https://youtu.be/CE9VOZivb3I
+
+Artificial Intelligence in Unity: https://learn.unity.com/course/artificial-intelligence-for-beginners
+
+---
 
 **2D:**
 
 Sidescroller Movement: https://youtu.be/dwcT-Dch0bA
 
 Top Down Movement: https://youtu.be/whzomFgjT50
-
-Animation: https://youtu.be/hkaysu1Z-N8
 
 Shooting:  https://youtu.be/wkKsl1Mfp5M
 
